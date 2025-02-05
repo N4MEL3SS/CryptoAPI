@@ -1,4 +1,3 @@
-// URL API
 const baseUrl = 'http://localhost:8000';
 
 // Генерация ключевой пары
